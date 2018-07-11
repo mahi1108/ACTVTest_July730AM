@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">एक्टिव टेस्ट</string>
+    <string-array name="countries">
+        <item>ऑस्ट्रेलिया</item>
+        <item>कनाडा</item>
+        <item>ब्राज़िल</item>
+        <item> बांग्लादेश</item>
+        <item>इंडिया</item>
+        <item>इन्डोनेशियाई</item>
+    </string-array>
+    <string name="ecn">देश का नाम दर्ज करें:</string>
+
+</resources>

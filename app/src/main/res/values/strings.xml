@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ACTVTest</string>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Brazil</item>
+        <item> Bangladesh</item>
+        <item>India</item>
+        <item>Indonasia</item>
+    </string-array>
+    <string name="ecn">Enter Country Name :</string>
+
+</resources>
